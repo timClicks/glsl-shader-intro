@@ -1,5 +1,7 @@
 # glsl-intro-tutorial
 
+![](https://img.youtube.com/vi/sMkgXh7ThT4/maxresdefault.jpg)
+
 # About
 
 An introduction to using the OpenGL Shading Language (GLSL) language
